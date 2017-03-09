@@ -34,7 +34,7 @@ margin-bottom: 200px}
 
 
 
-footer {
+fewter {
 height:250px;
 width:99%;
 border:2px solid black;
@@ -110,7 +110,7 @@ color:purple;
 } 
 
 a:active{ 
-color:orange;}
+color:black;}
 
 #bone{
   float: right;
